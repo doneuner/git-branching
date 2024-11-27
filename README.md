@@ -1,5 +1,5 @@
 # git-branching
 
-test credentials dominik
+test credentials alexander
 
 BranchingandMerging
