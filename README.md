@@ -1,5 +1,5 @@
 # git-branching
 
-test merge conflict alex dominik
+test merge credentials alex dominik
 
 BranchingandMerging
